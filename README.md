@@ -72,6 +72,3 @@ Agora, qualquer pessoa pode instalar o seu pacote diretamente do PyPI:
 ```
 pip install image-processing-package
 ```
-### Testando e Atualizando o Pacote 🧪
-
-Para garantir que tudo funcione, pode-se criar testes automatizados com pytest ou outro framework de sua escolha. Os testes podem estar na pasta tests/.
