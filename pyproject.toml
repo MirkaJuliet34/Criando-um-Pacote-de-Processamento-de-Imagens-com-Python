@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=42", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "image-processing-package"
+version = "0.1.1"
+description = "Pacote para processamento básico de imagens"
+readme = "README.md"
+requires-python = ">=3.6"
+dependencies = ["Pillow"]
+license = { text = "Apache-2.0" }
+authors = [{name = "Seu Nome", email = "seu_email@example.com"}]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: Apache Software License",
+    "Operating System :: OS Independent"
+]
+
+[project.urls]
+"Homepage" = "https://github.com/seuusuario/image-processing-package"

@@ -1,0 +1,12 @@
+LICENSE
+MANIFEST.in
+README.md
+pyproject.toml
+setup.py
+image_processing_package.egg-info/PKG-INFO
+image_processing_package.egg-info/SOURCES.txt
+image_processing_package.egg-info/dependency_links.txt
+image_processing_package.egg-info/requires.txt
+image_processing_package.egg-info/top_level.txt
+tests/test_filters.py
+tests/test_transformations.py
