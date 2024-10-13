@@ -7,8 +7,8 @@ with open("README.md", "r", encoding="utf-8") as fh:
 setup(
     name="image_processing_package",
     version="0.1.0",
-    author="Seu Nome",
-    author_email="seu_email@example.com",
+    author="Mirka Juliet",
+    author_email="mirka.juliet@gmail.com",
     description="Pacote para processamento básico de imagens",
     long_description=long_description,
     long_description_content_type="text/markdown",
