@@ -12,7 +12,7 @@ setup(
     description="Pacote para processamento básico de imagens",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/seuusuario/image-processing-package",
+    url="https://github.com/MirkaJuliet34/image-processing-package",
     packages=find_packages(),
     install_requires=["Pillow"],
     classifiers=[
